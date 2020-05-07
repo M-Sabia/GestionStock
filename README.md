@@ -6,8 +6,8 @@ Final year school project: stock management program for the school secretariat
 
 - **Login Window**
 
-![GestionStock - screenshot](screenshots/login.PNG)
+![GestionStock - screenshot](screenshots/login.png)
 
 - **Main Window**
 
-![GestionStock - screenshot](screenshots/main.PNG)
+![GestionStock - screenshot](screenshots/main.png)
